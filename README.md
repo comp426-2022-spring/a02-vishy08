@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7717233&assignment_repo_type=AssignmentRepo)
 # a02 Functions and modules
 
 This assignment for COMP 426 is intended to give you a sense of how to work with modules and functions in Node packages (and otherwise).
